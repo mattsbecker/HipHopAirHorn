@@ -17,7 +17,7 @@
             android:id="@+id/swag_out_hook_text"
             android:layout_marginTop="20dip"
             android:layout_marginRight="20dip"
-            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@id/swag_button"
             android:src="@drawable/swag_out"
             android:contentDescription="Swag out hook text"/>
 
@@ -37,7 +37,7 @@
             android:layout_marginRight="40dip"
             android:layout_marginTop="5dip"
             android:id="@+id/pick_a_song_hook"
-            android:layout_below="@+id/swag_button"
+            android:layout_above="@+id/track_content_container"
             android:layout_alignParentRight="true"
             android:src="@drawable/pick_a_song"
             />
