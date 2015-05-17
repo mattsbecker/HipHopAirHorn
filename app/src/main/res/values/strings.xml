@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Hip Hop Air Horn 2</string>
+    <string name="admob_main_id">ca-app-pub-8863604597996999/8401263266</string>
+    <string name="admob_song_select_id">ca-app-pub-8863604597996999/6784929267</string>
+    <string name="admob_interstitial">ca-app-pub-8863604597996999/3691862068</string>
+
+</resources>
